@@ -2,8 +2,11 @@
 
 ![](https://raw.githubusercontent.com/r00tSe7en/Fake-flash.cn/master/Fake-flash.cn.png)
 
-www.flash.cn 的钓鱼页，中文+英文
+适用于旧版 www.flash.cn 的钓鱼页，中文+英文
 
-在线预览：http://fake-flash.se7ensec.cn/
+# 注意
+Flash.cn已经屏蔽了跨域请求，这里提供的资源文件来自当时的archive.org记录。
 
-# 注意：近期flash.cn官网更新了JS，国外访问的话会有错误，国内暂时没问题。
+由于Js需要相应的API才能工作（构建网页的下载按钮），已经通过添加相应内容文件的方式模拟API回应。
+
+这个钓鱼页处于勉强能用的状态，需要尽快更新。
