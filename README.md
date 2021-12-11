@@ -15,3 +15,5 @@ Flash.cn已经屏蔽了跨域请求，这里提供的资源文件来自当时的
 # 感谢
 
 https://github.com/lwd-temp
+
+![as](https://starchart.cc/r00tSe7en/Fake-flash.cn.svg)
